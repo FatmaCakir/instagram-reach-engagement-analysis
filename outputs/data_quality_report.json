@@ -1,0 +1,11 @@
+{
+  "raw_rows": 119,
+  "exact_duplicates_removed": 17,
+  "unique_rows": 102,
+  "missing_cells_after_cleaning": 0,
+  "traffic_mismatch_rows": 102,
+  "traffic_exceeds_impressions_rows": 4,
+  "follows_exceed_profile_visits_rows": 4,
+  "post_ids_are_generated": true,
+  "original_post_dates_available": false
+}
